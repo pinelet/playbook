@@ -2,5 +2,5 @@
 - host: vpnserver
   remote_user: root
   tasks:
-	- name: ping server
-	  ping: 
+  - name: ping server
+    ping: 
