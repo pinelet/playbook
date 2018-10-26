@@ -1,5 +1,5 @@
 ---
-- hosts: vpnserver
+- hosts: vboxserver
   remote_user: root
   tasks:
   - name: ping server
